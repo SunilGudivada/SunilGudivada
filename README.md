@@ -21,5 +21,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilGudivada&hide=css,html&layout=compact" />
 </a>
 <a href="https://github.com/SunilGudivada">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SunilGudivada&show_icons=true&hide=issues,contribs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SunilGudivada&show_icons=true&count_private=true&theme=radical" />
 </a>
