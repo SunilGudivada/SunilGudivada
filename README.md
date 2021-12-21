@@ -17,9 +17,8 @@
 #### My GitHub profile trophy:
 [![trophy](https://github-profile-trophy.vercel.app/?username=SunilGudivada)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://github.com/SunilGudivada">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilGudivada&hide=css,html&layout=compact" />
-</a>
-<a href="https://github.com/SunilGudivada">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SunilGudivada&show_icons=true&count_private=true&theme=radical" />
-</a>
+|<img align="left" src="https://github-readme-stats.vercel.app/api?username=SunilGudivada&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Sunil's github stats" />|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SunilGudivada&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>|
+|---|---|
+|<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SunilGudivada&theme=dracula" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilGudivada&layout=compact&theme=dracula" />| 
+|<img align="left" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SunilGudivada&theme=dracula" />|<img align="center" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SunilGudivada&theme=dracula" />|
+ 
