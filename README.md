@@ -1,4 +1,6 @@
-<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+[comment]: <> (<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">)
+<img width="70%" style="height:200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SunilGudivada&theme=vue"><img style="width:30%;height:200px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunilgudivada&theme=vue"/>
+
 
 ### Hi there 👋, I'm Sunil ✨
 
@@ -14,11 +16,15 @@
     - [![dev.to badge](https://img.shields.io/badge/linkedin-sunilGudivada-blue)](https://www.linkedin.com/in/sunil0385/)
 - 👨‍💻 Want to eplore my work, [Here](https://github.com/SunilGudivada?tab=repositories) are my projects.
 
+#### My Github stats: 
+<img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunilGudivada&theme=vue&custom_title=streak-stats&hide_border=true&layout=compact" /><img style="width:50%; " src="https://github-readme-stats.vercel.app/api?username=SunilGudivada&show_icons=true&include_all_commits=true&theme=vue" alt="Sunil's github stats" />
+
+
+
+|<img align="left" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SunilGudivada&theme=vue" />|<img align="center" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SunilGudivada&theme=vue" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilGudivada&layout=compact&theme=vue" />
+|---|---|---|
+
 #### My GitHub profile trophy:
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=SunilGudivada)](https://github.com/ryo-ma/github-profile-trophy)
 
-|<img align="left" src="https://github-readme-stats.vercel.app/api?username=SunilGudivada&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Sunil's github stats" />|<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SunilGudivada&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>|
-|---|---|
-|<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SunilGudivada&theme=dracula" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilGudivada&layout=compact&theme=dracula" />| 
-|<img align="left" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SunilGudivada&theme=dracula" />|<img align="center" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SunilGudivada&theme=dracula" />|
- 
