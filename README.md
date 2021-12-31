@@ -17,7 +17,7 @@
 - 👨‍💻 Want to eplore my work, [Here](https://github.com/SunilGudivada?tab=repositories) are my projects.
 
 <!-- START gadpp -->
-- SunilGudivada/github-add-latest-commits-readme, [refs/heads/main@439876657393a011549ae2411a632642a977c9a8](https://github.com/SunilGudivada/github-add-latest-commits-readme/commit/439876657393a011549ae2411a632642a977c9a8)
+- SunilGudivada/github-add-latest-commits-readme, [refs/tags/v1@439876657393a011549ae2411a632642a977c9a8](https://github.com/SunilGudivada/github-add-latest-commits-readme/commit/439876657393a011549ae2411a632642a977c9a8)
 
 #### My Github stats: 
 <img style="width:48%;" src="https://github-readme-stats.vercel.app/api?username=SunilGudivada&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Sunil's github stats" /><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunilGudivada&theme=vue&custom_title=streak-stats&hide_border=true&layout=compact" />
