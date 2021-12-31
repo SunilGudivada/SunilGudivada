@@ -9,7 +9,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Add Latest Commits to readme
-        uses: SunilGudivada/github-add-latest-commits-readme
+        uses: SunilGudivada/github-add-latest-commits-readme@v1
         id: gadpp
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
