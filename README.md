@@ -16,6 +16,8 @@
     - [![dev.to badge](https://img.shields.io/badge/linkedin-sunilGudivada-blue)](https://www.linkedin.com/in/sunil0385/)
 - 👨‍💻 Want to eplore my work, [Here](https://github.com/SunilGudivada?tab=repositories) are my projects.
 
+<!-- START gadpp -->
+
 #### My Github stats: 
 <img style="width:48%;" src="https://github-readme-stats.vercel.app/api?username=SunilGudivada&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Sunil's github stats" /><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SunilGudivada&theme=vue&custom_title=streak-stats&hide_border=true&layout=compact" />
 
