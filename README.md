@@ -25,3 +25,5 @@
 **My GitHub profile trophy:**
 
 ![](https://github-profile-trophy.vercel.app/?username=SunilGudivada)
+
+<img src="https://images.credly.com/images/c7e9e836-0b6f-410d-b5fb-48297aa9c310/image.png" alt="Microsoft Global Hackathon 2022" width="100" /> 
